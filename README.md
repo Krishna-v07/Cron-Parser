@@ -39,5 +39,7 @@ Useful for task schedulers, automation systems, cron validators.
 📦 Installation
 
 git clone https://github.com/your-username/cron-parser.git
+
 cd Cron-Parser
+
 npm install
