@@ -43,3 +43,6 @@ git clone https://github.com/your-username/cron-parser.git
 cd Cron-Parser
 
 npm install
+
+- Run the Program
+  - node cron-parser.js "*/15 0 1,15 * 1-5 /usr/bin/find"
